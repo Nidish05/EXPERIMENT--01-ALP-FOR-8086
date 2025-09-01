@@ -132,8 +132,9 @@ AND AL,BL
 ```
 
 ## Output
+<img width="1611" height="639" alt="image" src="https://github.com/user-attachments/assets/289c29cc-5fa0-4b3b-b491-1a3954459336" />
 
-<img width="1920" height="1200" alt="Screenshot 2025-08-29 092414" src="https://github.com/user-attachments/assets/07acc333-7186-46cc-b0aa-7e54681378eb" />
+
 
 ## OR alp
 ```
@@ -144,7 +145,8 @@ OR AL,BL
 
 ## Output
 
-<img width="1920" height="1200" alt="Screenshot 2025-08-29 092652" src="https://github.com/user-attachments/assets/1e30b229-7ab0-4c87-be9f-5dad7c2ad5b1" />
+<img width="1563" height="625" alt="Screenshot 2025-09-01 213802" src="https://github.com/user-attachments/assets/50e06ec3-1e0d-4051-97e3-f47b1974f552" />
+
 
 ## NOT alp
 ```
@@ -155,7 +157,8 @@ NOT AL
 
 ##  Output
 
-<img width="1920" height="1200" alt="Screenshot 2025-08-29 092618" src="https://github.com/user-attachments/assets/58d8f90c-fa98-45a1-b305-baa29cbd22ae" />
+<img width="1647" height="526" alt="Screenshot 2025-09-01 213834" src="https://github.com/user-attachments/assets/ace29ca1-72ca-45c8-8408-a03182e29db0" />
+
 
 ## XOR alp
 ```
@@ -166,7 +169,8 @@ XOR AL,BL
 
 ## Output
 
-<img width="1920" height="1200" alt="Screenshot 2025-08-29 092316" src="https://github.com/user-attachments/assets/a464c05f-0014-4d85-b5eb-35c045ebf92a" />
+<img width="1709" height="634" alt="Screenshot 2025-09-01 213903" src="https://github.com/user-attachments/assets/54807c2a-f873-4045-a5c9-88430d5fcd40" />
+
 
 ## NAND alp
 ```
@@ -178,7 +182,7 @@ NOT AL
 
 ## Output
 
-<img width="1920" height="1200" alt="Screenshot 2025-08-29 092503" src="https://github.com/user-attachments/assets/40a536b7-2348-4d92-8a5a-614d9a0bf7b2" />
+<img width="1652" height="625" alt="Screenshot 2025-09-01 213929" src="https://github.com/user-attachments/assets/0bb9d19f-7720-4515-82dd-1fef0f912eee" />
 
 
 ## Result :
