@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name :NIDISHKUMAR S
+Roll no :212224040218
+Date of experiment :01.09.2025
 
 
 
@@ -124,11 +124,76 @@ DIV BL
 ## Output  
 <img width="1629" height="636" alt="image" src="https://github.com/user-attachments/assets/7da3e617-f164-4685-9442-57b7bf3defa4" />
 
+## AND alp
+```
+MOV AL,0BH
+MOV BL,05H
+AND AL,BL
+```
+
+## Output
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-29 092414" src="https://github.com/user-attachments/assets/07acc333-7186-46cc-b0aa-7e54681378eb" />
+
+## OR alp
+```
+MOV AL,0BH
+MOV BL,05H
+OR AL,BL
+```
+
+## Output
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-29 092652" src="https://github.com/user-attachments/assets/1e30b229-7ab0-4c87-be9f-5dad7c2ad5b1" />
+
+## NOT alp
+```
+MOV AL,0BH
+MOV BL 05H
+NOT AL
+```
+
+##  Output
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-29 092618" src="https://github.com/user-attachments/assets/58d8f90c-fa98-45a1-b305-baa29cbd22ae" />
+
+## XOR alp
+```
+MOV AL,0BH
+MOV BL,05H
+XOR AL,BL
+```
+
+## Output
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-29 092316" src="https://github.com/user-attachments/assets/a464c05f-0014-4d85-b5eb-35c045ebf92a" />
+
+## NAND alp
+```
+MOV AL,0BH
+MOV BL,05H
+AND AL,BL
+NOT AL
+```
+
+## Output
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-29 092503" src="https://github.com/user-attachments/assets/40a536b7-2348-4d92-8a5a-614d9a0bf7b2" />
 
 
 ## Result :
  
 The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
+
+
+
+
+
+
+
+
+
+
 
 
 
